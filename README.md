@@ -1,7 +1,7 @@
 #### NAME: Prabha C
 #### REG NO: 212222110032
 
-# EX 2 Control of Relay Using IoT controller
+# EX.NO 2: Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
